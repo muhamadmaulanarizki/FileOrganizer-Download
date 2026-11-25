@@ -5,20 +5,22 @@
 <h1 align="center">FileOrganizer for Windows</h1>
 
 <p align="center">
-  Fast, lightweight Windows file organizer, Cloud Hub (Google Drive / OneDrive / Dropbox), Junk Cleaner, and Safe Registry Cleaner.
+  Fast, lightweight Windows file organizer, Cloud Hub (Google Drive / OneDrive / Dropbox), Junk Cleaner, Safe Registry Cleaner, and built-in 1-click Auto-Updater.
 </p>
 
 <p align="center">
-  <a href="https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/download/v0.1.0/fo-gui.exe">
-    <img src="https://img.shields.io/badge/Download-fo--gui.exe%20(v0.1.0)-45C4B0?style=for-the-badge" alt="Download fo-gui.exe" />
+  <a href="https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/latest/download/fo-gui.exe">
+    <img src="https://img.shields.io/badge/Download-fo--gui.exe%20(Latest)-45C4B0?style=for-the-badge" alt="Download fo-gui.exe" />
   </a>
 </p>
 
 ## Download
 
-- **Desktop App (GUI)**: [Download o-gui.exe (v0.1.0)](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/download/v0.1.0/fo-gui.exe)
-- **Command-Line Tool (CLI)**: [Download o-cli.exe (v0.1.0)](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/download/v0.1.0/fo-cli.exe)
+- **Desktop App (GUI)**: [Download o-gui.exe (Latest — v0.1.1)](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/latest/download/fo-gui.exe)
+- **Command-Line Tool (CLI)**: [Download o-cli.exe (Latest — v0.1.1)](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/latest/download/fo-cli.exe)
 - **All Releases**: [Releases Page](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases)
+
+> **Auto-Update 1-Klik**: Mulai versi 0.1.1, FileOrganizer otomatis mengecek update saat dibuka dan menampilkan tombol **"Update Sekarang"** (bisa juga cek manual di tab **Settings → Cek Update**).
 
 ## Jika Muncul Peringatan Windows SmartScreen
 
