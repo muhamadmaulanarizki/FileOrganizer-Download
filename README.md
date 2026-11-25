@@ -16,8 +16,8 @@
 
 ## Download
 
-- **Desktop App (GUI)**: [Download o-gui.exe (Latest — v0.1.2)](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/latest/download/fo-gui.exe)
-- **Command-Line Tool (CLI)**: [Download o-cli.exe (Latest — v0.1.2)](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/latest/download/fo-cli.exe)
+- **Desktop App (GUI)**: [Download o-gui.exe (Latest — v0.1.3)](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/latest/download/fo-gui.exe)
+- **Command-Line Tool (CLI)**: [Download o-cli.exe (Latest — v0.1.3)](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/latest/download/fo-cli.exe)
 - **All Releases**: [Releases Page](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases)
 
 > **Auto-Update 1-Klik**: Mulai versi 0.1.1, FileOrganizer otomatis mengecek update saat dibuka dan menampilkan tombol **"Update Sekarang"** (bisa juga cek manual di tab **Settings → Cek Update**).
@@ -39,4 +39,5 @@ Karena aplikasi ini belum menggunakan sertifikat *Code Signing* berbayar, Window
 ## License
 
 MIT License — see [LICENSE](LICENSE).
+
 
