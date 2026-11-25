@@ -20,12 +20,19 @@
 - **Command-Line Tool (CLI)**: [Download o-cli.exe (v0.1.0)](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases/download/v0.1.0/fo-cli.exe)
 - **All Releases**: [Releases Page](https://github.com/muhamadmaulanarizki/FileOrganizer-Download/releases)
 
+## Jika Muncul Peringatan Windows SmartScreen
+
+Karena aplikasi ini belum menggunakan sertifikat *Code Signing* berbayar, Windows terkadang menampilkan layar **"Windows protected your PC"** saat pertama kali dibuka:
+
+1. Klik **More info** (Info selengkapnya) → klik **Run anyway** (Tetap jalankan).
+2. *(Opsional)* Klik kanan o-gui.exe → **Properties** → centang **Unblock** di bagian bawah → klik **OK**.
+
 ## Quick Start
 
-1. Download **o-gui.exe** and run it directly (no installer required).
-2. **Organize Folders**: Choose a folder (e.g. Downloads) → click **Dry-Run Preview** → **Organize Now**. Use **Undo Last** anytime to revert.
-3. **Connect Google Drive / Cloud**: Open **Cloud Hub** → click **Connect Cloud**. If prompted, click **Pasang Cloud Engine Otomatis** (1-click setup), then sign in via browser.
-4. **Junk & Registry Cleaner**: Open **Junk Cleaner** to scan junk files or switch to the **Registry** tab (creates an automatic .reg backup before every fix).
+1. Download **o-gui.exe** dan jalankan langsung (tanpa installer).
+2. **Organize Folders**: Pilih folder (misalnya Downloads) → klik **Dry-Run Preview** → **Organize Now**. Klik **Undo Last** kapan saja jika ingin mengembalikan file.
+3. **Connect Google Drive / Cloud**: Buka **Cloud Hub** → klik **Connect Cloud**. Jika clone belum terpasang, klik **Pasang Cloud Engine Otomatis** (1 klik), lalu login via browser.
+4. **Junk & Registry Cleaner**: Buka **Junk Cleaner** untuk bersihkan file sampah atau pindah ke tab **Registry** (otomatis membuat backup .reg sebelum setiap perbaikan).
 
 ## License
 
